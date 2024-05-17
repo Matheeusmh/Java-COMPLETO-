@@ -10,7 +10,7 @@ public class Pessoa {
         this.altura = altura;
         this.idade = idade;
     }
-    
+
     public String getNome() {
         return nome;
     }
